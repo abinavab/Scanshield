@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Security Log Monitoring & Brute-Force Detection System",
+  "description": "Enterprise-grade SIEM and real-time authentication log monitor with brute-force detection, Kali Linux agent ingestion, MITRE ATT&CK mapping, and automated SOC incident response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

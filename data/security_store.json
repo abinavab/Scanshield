@@ -1,0 +1,692 @@
+{
+  "logs": [
+    {
+      "id": "log_1791520598095_bimv9u",
+      "timestamp": "2026-10-09T04:36:38.095Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "218.92.0.18",
+      "port": 49157,
+      "message": "Failed authentication for root from 218.92.0.18:49157",
+      "raw": "Oct 08 21:28:20 kali-victim sshd[28905]: Failed password for root from 218.92.0.18 port 49157 ssh2 (Hydra/v9.5)",
+      "severity": "high",
+      "geo": {
+        "country": "China",
+        "countryCode": "CN",
+        "city": "Lianyungang",
+        "flag": "🇨🇳",
+        "org": "China Telecom Scanner"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520598094_rm37pl",
+      "timestamp": "2026-10-09T04:36:38.094Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "218.92.0.18",
+      "port": 49156,
+      "message": "Failed authentication for root from 218.92.0.18:49156",
+      "raw": "Oct 08 21:28:18 kali-victim sshd[28904]: Failed password for root from 218.92.0.18 port 49156 ssh2 (Hydra/v9.5)",
+      "severity": "high",
+      "geo": {
+        "country": "China",
+        "countryCode": "CN",
+        "city": "Lianyungang",
+        "flag": "🇨🇳",
+        "org": "China Telecom Scanner"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520598094_qil4jl",
+      "timestamp": "2026-10-09T04:36:38.094Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "218.92.0.18",
+      "port": 49155,
+      "message": "Failed authentication for root from 218.92.0.18:49155",
+      "raw": "Oct 08 21:28:16 kali-victim sshd[28903]: Failed password for root from 218.92.0.18 port 49155 ssh2 (Hydra/v9.5)",
+      "severity": "high",
+      "geo": {
+        "country": "China",
+        "countryCode": "CN",
+        "city": "Lianyungang",
+        "flag": "🇨🇳",
+        "org": "China Telecom Scanner"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520598094_e4j9ob",
+      "timestamp": "2026-10-09T04:36:38.094Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "218.92.0.18",
+      "port": 49154,
+      "message": "Failed authentication for root from 218.92.0.18:49154",
+      "raw": "Oct 08 21:28:14 kali-victim sshd[28902]: Failed password for root from 218.92.0.18 port 49154 ssh2 (Hydra/v9.5)",
+      "severity": "high",
+      "geo": {
+        "country": "China",
+        "countryCode": "CN",
+        "city": "Lianyungang",
+        "flag": "🇨🇳",
+        "org": "China Telecom Scanner"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520598094_5cccwo",
+      "timestamp": "2026-10-09T04:36:38.094Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "218.92.0.18",
+      "port": 49153,
+      "message": "Failed authentication for root from 218.92.0.18:49153",
+      "raw": "Oct 08 21:28:12 kali-victim sshd[28901]: Failed password for root from 218.92.0.18 port 49153 ssh2 (Hydra/v9.5)",
+      "severity": "high",
+      "geo": {
+        "country": "China",
+        "countryCode": "CN",
+        "city": "Lianyungang",
+        "flag": "🇨🇳",
+        "org": "China Telecom Scanner"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520598094_xdhx0e",
+      "timestamp": "2026-10-09T04:36:38.094Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "218.92.0.18",
+      "port": 49152,
+      "message": "Failed authentication for root from 218.92.0.18:49152",
+      "raw": "Oct 08 21:28:10 kali-victim sshd[28900]: Failed password for root from 218.92.0.18 port 49152 ssh2 (Hydra/v9.5)",
+      "severity": "high",
+      "geo": {
+        "country": "China",
+        "countryCode": "CN",
+        "city": "Lianyungang",
+        "flag": "🇨🇳",
+        "org": "China Telecom Scanner"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520590560_1r9tbf",
+      "timestamp": "2026-10-09T04:36:30.560Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "198.51.100.42",
+      "port": 52140,
+      "message": "Failed authentication for root from 198.51.100.42:52140",
+      "raw": "Oct 08 21:36:00 kali sshd[31000]: Failed password for root from 198.51.100.42 port 52140 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "United States",
+        "countryCode": "US",
+        "city": "Ashburn",
+        "flag": "🇺🇸",
+        "org": "DigitalOcean Cloud Proxy"
+      },
+      "isSimulated": false
+    },
+    {
+      "id": "log_1791520581568_cyxtar",
+      "timestamp": "2026-10-09T04:35:21.568Z",
+      "service": "sshd",
+      "eventType": "ACCEPTED_PASSWORD",
+      "username": "vyogarajan",
+      "sourceIp": "178.128.23.45",
+      "port": 59281,
+      "message": "Successful publickey login for user 'vyogarajan' from 178.128.23.45:59281",
+      "raw": "Oct 08 21:20:00 kali-victim sshd[20101]: Accepted publickey for vyogarajan from 178.128.23.45 port 59281 ssh2: RSA SHA256:abc82f...",
+      "severity": "low",
+      "geo": {
+        "country": "Singapore",
+        "countryCode": "SG",
+        "city": "Singapore",
+        "flag": "🇸🇬",
+        "org": "Cloudflare / AWS Proxy"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581568_gok9wx",
+      "timestamp": "2026-10-09T04:34:21.568Z",
+      "service": "sudo",
+      "eventType": "SUDO_FAILURE",
+      "username": "unknown",
+      "sourceIp": "127.0.0.1",
+      "port": 22,
+      "message": "Sudo privilege escalation failure: Oct 08 21:18:40 kali-victim sudo: attacker : 3 incorrect password attempts ; TTY=pts/1 ; PWD=/home/kali ; USER=root ; COMMAND=/bin/bash",
+      "raw": "Oct 08 21:18:40 kali-victim sudo: attacker : 3 incorrect password attempts ; TTY=pts/1 ; PWD=/home/kali ; USER=root ; COMMAND=/bin/bash",
+      "severity": "critical",
+      "geo": {
+        "country": "Localhost",
+        "countryCode": "LOC",
+        "city": "Loopback",
+        "flag": "💻",
+        "org": "Local System"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581568_wlmg5g",
+      "timestamp": "2026-10-09T04:33:06.568Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "185.220.101.5",
+      "port": 53112,
+      "message": "Failed authentication for root from 185.220.101.5:53112",
+      "raw": "Oct 08 21:14:25 kali-victim sshd[19027]: Failed password for root from 185.220.101.5 port 53112 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "Germany",
+        "countryCode": "DE",
+        "city": "Frankfurt",
+        "flag": "🇩🇪",
+        "org": "Tor Exit Node / Bulletproof VPS"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581568_3k1h5s",
+      "timestamp": "2026-10-09T04:33:01.568Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "185.220.101.5",
+      "port": 53110,
+      "message": "Failed authentication for root from 185.220.101.5:53110",
+      "raw": "Oct 08 21:14:23 kali-victim sshd[19026]: Failed password for root from 185.220.101.5 port 53110 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "Germany",
+        "countryCode": "DE",
+        "city": "Frankfurt",
+        "flag": "🇩🇪",
+        "org": "Tor Exit Node / Bulletproof VPS"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581567_qz96dp",
+      "timestamp": "2026-10-09T04:32:56.567Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "185.220.101.5",
+      "port": 53108,
+      "message": "Failed authentication for root from 185.220.101.5:53108",
+      "raw": "Oct 08 21:14:21 kali-victim sshd[19025]: Failed password for root from 185.220.101.5 port 53108 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "Germany",
+        "countryCode": "DE",
+        "city": "Frankfurt",
+        "flag": "🇩🇪",
+        "org": "Tor Exit Node / Bulletproof VPS"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581567_cjl4vv",
+      "timestamp": "2026-10-09T04:32:51.567Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "185.220.101.5",
+      "port": 53106,
+      "message": "Failed authentication for root from 185.220.101.5:53106",
+      "raw": "Oct 08 21:14:19 kali-victim sshd[19024]: Failed password for root from 185.220.101.5 port 53106 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "Germany",
+        "countryCode": "DE",
+        "city": "Frankfurt",
+        "flag": "🇩🇪",
+        "org": "Tor Exit Node / Bulletproof VPS"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581567_qw9dal",
+      "timestamp": "2026-10-09T04:32:46.567Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "185.220.101.5",
+      "port": 53104,
+      "message": "Failed authentication for root from 185.220.101.5:53104",
+      "raw": "Oct 08 21:14:17 kali-victim sshd[19023]: Failed password for root from 185.220.101.5 port 53104 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "Germany",
+        "countryCode": "DE",
+        "city": "Frankfurt",
+        "flag": "🇩🇪",
+        "org": "Tor Exit Node / Bulletproof VPS"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581567_35c7bz",
+      "timestamp": "2026-10-09T04:32:41.567Z",
+      "service": "sshd",
+      "eventType": "FAILED_PASSWORD",
+      "username": "root",
+      "sourceIp": "185.220.101.5",
+      "port": 53102,
+      "message": "Failed authentication for root from 185.220.101.5:53102",
+      "raw": "Oct 08 21:14:15 kali-victim sshd[19022]: Failed password for root from 185.220.101.5 port 53102 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "Germany",
+        "countryCode": "DE",
+        "city": "Frankfurt",
+        "flag": "🇩🇪",
+        "org": "Tor Exit Node / Bulletproof VPS"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581567_8l29v2",
+      "timestamp": "2026-10-09T04:31:41.567Z",
+      "service": "sshd",
+      "eventType": "INVALID_USER",
+      "username": "deploy",
+      "sourceIp": "194.26.29.112",
+      "port": 48925,
+      "message": "Failed authentication for invalid user deploy from 194.26.29.112:48925",
+      "raw": "Oct 08 21:10:12 kali-victim sshd[18406]: Failed password for invalid user deploy from 194.26.29.112 port 48925 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "Russia",
+        "countryCode": "RU",
+        "city": "Moscow",
+        "flag": "🇷🇺",
+        "org": "Selectel ASN / Redline Botnet"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581566_pqmcnx",
+      "timestamp": "2026-10-09T04:31:31.566Z",
+      "service": "sshd",
+      "eventType": "INVALID_USER",
+      "username": "oracle",
+      "sourceIp": "194.26.29.112",
+      "port": 48924,
+      "message": "Failed authentication for invalid user oracle from 194.26.29.112:48924",
+      "raw": "Oct 08 21:10:09 kali-victim sshd[18405]: Failed password for invalid user oracle from 194.26.29.112 port 48924 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "Russia",
+        "countryCode": "RU",
+        "city": "Moscow",
+        "flag": "🇷🇺",
+        "org": "Selectel ASN / Redline Botnet"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581566_nfearb",
+      "timestamp": "2026-10-09T04:31:21.566Z",
+      "service": "sshd",
+      "eventType": "INVALID_USER",
+      "username": "test",
+      "sourceIp": "194.26.29.112",
+      "port": 48923,
+      "message": "Failed authentication for invalid user test from 194.26.29.112:48923",
+      "raw": "Oct 08 21:10:07 kali-victim sshd[18404]: Failed password for invalid user test from 194.26.29.112 port 48923 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "Russia",
+        "countryCode": "RU",
+        "city": "Moscow",
+        "flag": "🇷🇺",
+        "org": "Selectel ASN / Redline Botnet"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581566_wxzne9",
+      "timestamp": "2026-10-09T04:31:11.566Z",
+      "service": "sshd",
+      "eventType": "INVALID_USER",
+      "username": "root",
+      "sourceIp": "194.26.29.112",
+      "port": 48922,
+      "message": "Failed authentication for invalid user root from 194.26.29.112:48922",
+      "raw": "Oct 08 21:10:05 kali-victim sshd[18403]: Failed password for invalid user root from 194.26.29.112 port 48922 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "Russia",
+        "countryCode": "RU",
+        "city": "Moscow",
+        "flag": "🇷🇺",
+        "org": "Selectel ASN / Redline Botnet"
+      },
+      "isSimulated": true
+    },
+    {
+      "id": "log_1791520581565_z5gvpo",
+      "timestamp": "2026-10-09T04:31:01.564Z",
+      "service": "sshd",
+      "eventType": "INVALID_USER",
+      "username": "admin",
+      "sourceIp": "194.26.29.112",
+      "port": 48921,
+      "message": "Failed authentication for invalid user admin from 194.26.29.112:48921",
+      "raw": "Oct 08 21:10:02 kali-victim sshd[18402]: Failed password for invalid user admin from 194.26.29.112 port 48921 ssh2",
+      "severity": "high",
+      "geo": {
+        "country": "Russia",
+        "countryCode": "RU",
+        "city": "Moscow",
+        "flag": "🇷🇺",
+        "org": "Selectel ASN / Redline Botnet"
+      },
+      "isSimulated": true
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alert_1791520598094_eilnx",
+      "timestamp": "2026-10-09T04:36:38.094Z",
+      "type": "BRUTE_FORCE_SSH",
+      "title": "High-Frequency SSH Brute-Force Attack Detected (5 attempts / 60s)",
+      "description": "Host 218.92.0.18 generated 5 failed login attempts within 60 seconds targeting accounts: [root].",
+      "severity": "CRITICAL",
+      "sourceIp": "218.92.0.18",
+      "targetedUsernames": [
+        "root"
+      ],
+      "attemptsCount": 5,
+      "windowSeconds": 60,
+      "mitreTechnique": {
+        "id": "T1110.001",
+        "name": "Brute Force: Password Guessing",
+        "tactic": "Credential Access",
+        "url": "https://attack.mitre.org/techniques/T1110/001/",
+        "description": "Adversaries may guess passwords to gain access to target accounts through repeated dictionary or brute-force requests.",
+        "mitigation": "Implement account lockouts, rate limiting, Fail2ban automated dropping, and mandatory SSH key authentication."
+      },
+      "status": "ACTIVE",
+      "associatedLogIds": [
+        "log_1791520598094_rm37pl",
+        "log_1791520598094_qil4jl",
+        "log_1791520598094_e4j9ob",
+        "log_1791520598094_5cccwo",
+        "log_1791520598094_xdhx0e"
+      ],
+      "autoBanned": true,
+      "geo": {
+        "country": "China",
+        "countryCode": "CN",
+        "city": "Lianyungang",
+        "flag": "🇨🇳",
+        "org": "China Telecom Scanner"
+      }
+    },
+    {
+      "id": "alert_1791520581568_tvyc8",
+      "timestamp": "2026-10-09T04:36:21.568Z",
+      "type": "BRUTE_FORCE_SSH",
+      "title": "High-Frequency SSH Brute-Force Attack Detected (5 attempts / 60s)",
+      "description": "Host 185.220.101.5 generated 5 failed login attempts within 60 seconds targeting accounts: [root].",
+      "severity": "CRITICAL",
+      "sourceIp": "185.220.101.5",
+      "targetedUsernames": [
+        "root"
+      ],
+      "attemptsCount": 5,
+      "windowSeconds": 60,
+      "mitreTechnique": {
+        "id": "T1110.001",
+        "name": "Brute Force: Password Guessing",
+        "tactic": "Credential Access",
+        "url": "https://attack.mitre.org/techniques/T1110/001/",
+        "description": "Adversaries may guess passwords to gain access to target accounts through repeated dictionary or brute-force requests.",
+        "mitigation": "Implement account lockouts, rate limiting, Fail2ban automated dropping, and mandatory SSH key authentication."
+      },
+      "status": "ACTIVE",
+      "associatedLogIds": [
+        "log_1791520581568_3k1h5s",
+        "log_1791520581567_qz96dp",
+        "log_1791520581567_cjl4vv",
+        "log_1791520581567_qw9dal",
+        "log_1791520581567_35c7bz"
+      ],
+      "autoBanned": true,
+      "geo": {
+        "country": "Germany",
+        "countryCode": "DE",
+        "city": "Frankfurt",
+        "flag": "🇩🇪",
+        "org": "Tor Exit Node / Bulletproof VPS"
+      }
+    },
+    {
+      "id": "alert_1791520581567_e6zv9",
+      "timestamp": "2026-10-09T04:36:21.567Z",
+      "type": "BRUTE_FORCE_SSH",
+      "title": "High-Frequency SSH Brute-Force Attack Detected (5 attempts / 60s)",
+      "description": "Host 194.26.29.112 generated 5 failed login attempts within 60 seconds targeting accounts: [deploy, oracle, test, root, admin].",
+      "severity": "CRITICAL",
+      "sourceIp": "194.26.29.112",
+      "targetedUsernames": [
+        "deploy",
+        "oracle",
+        "test",
+        "root",
+        "admin"
+      ],
+      "attemptsCount": 5,
+      "windowSeconds": 60,
+      "mitreTechnique": {
+        "id": "T1110.001",
+        "name": "Brute Force: Password Guessing",
+        "tactic": "Credential Access",
+        "url": "https://attack.mitre.org/techniques/T1110/001/",
+        "description": "Adversaries may guess passwords to gain access to target accounts through repeated dictionary or brute-force requests.",
+        "mitigation": "Implement account lockouts, rate limiting, Fail2ban automated dropping, and mandatory SSH key authentication."
+      },
+      "status": "ACTIVE",
+      "associatedLogIds": [
+        "log_1791520581567_8l29v2",
+        "log_1791520581566_pqmcnx",
+        "log_1791520581566_nfearb",
+        "log_1791520581566_wxzne9",
+        "log_1791520581565_z5gvpo"
+      ],
+      "autoBanned": true,
+      "geo": {
+        "country": "Russia",
+        "countryCode": "RU",
+        "city": "Moscow",
+        "flag": "🇷🇺",
+        "org": "Selectel ASN / Redline Botnet"
+      }
+    },
+    {
+      "id": "alert_1791520581566_y0u8y",
+      "timestamp": "2026-10-09T04:36:21.566Z",
+      "type": "PASSWORD_SPRAYING",
+      "title": "Horizontal Password Spraying Pattern (4 accounts targeted)",
+      "description": "Source IP 194.26.29.112 attempted auth across 4 distinct usernames: [oracle, test, root, admin] avoiding single-user lockout thresholds.",
+      "severity": "HIGH",
+      "sourceIp": "194.26.29.112",
+      "targetedUsernames": [
+        "oracle",
+        "test",
+        "root",
+        "admin"
+      ],
+      "attemptsCount": 4,
+      "windowSeconds": 120,
+      "mitreTechnique": {
+        "id": "T1110.003",
+        "name": "Brute Force: Password Spraying",
+        "tactic": "Credential Access",
+        "url": "https://attack.mitre.org/techniques/T1110/003/",
+        "description": "Adversaries may use a single or small set of common passwords against many different accounts to bypass account lockouts.",
+        "mitigation": "Implement centralized rate limiting by IP across the enterprise, multi-factor authentication (MFA), and anomaly-based SIEM detection."
+      },
+      "status": "ACTIVE",
+      "associatedLogIds": [
+        "log_1791520581566_pqmcnx",
+        "log_1791520581566_nfearb",
+        "log_1791520581566_wxzne9",
+        "log_1791520581565_z5gvpo"
+      ],
+      "autoBanned": true,
+      "geo": {
+        "country": "Russia",
+        "countryCode": "RU",
+        "city": "Moscow",
+        "flag": "🇷🇺",
+        "org": "Selectel ASN / Redline Botnet"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "rule-ssh-bruteforce",
+      "name": "SSH Brute-Force Password Guessing",
+      "technique": "T1110.001",
+      "description": "Detects high-frequency failed SSH authentication attempts from a single IP.",
+      "enabled": true,
+      "threshold": 5,
+      "windowSeconds": 60,
+      "severity": "CRITICAL",
+      "autoBan": true,
+      "autoBanDurationMinutes": 15
+    },
+    {
+      "id": "rule-password-spraying",
+      "name": "Horizontal Password Spraying",
+      "technique": "T1110.003",
+      "description": "Detects single IP attempting credentials across multiple distinct usernames.",
+      "enabled": true,
+      "threshold": 4,
+      "windowSeconds": 120,
+      "severity": "HIGH",
+      "autoBan": true,
+      "autoBanDurationMinutes": 30
+    },
+    {
+      "id": "rule-account-compromise",
+      "name": "Brute-Force Followed by Successful Login",
+      "technique": "T1078",
+      "description": "Detects successful login following 3+ previous failed attempts from the same IP (possible credential compromise).",
+      "enabled": true,
+      "threshold": 3,
+      "windowSeconds": 300,
+      "severity": "CRITICAL",
+      "autoBan": false,
+      "autoBanDurationMinutes": 60
+    },
+    {
+      "id": "rule-sudo-abuse",
+      "name": "Sudo Privilege Escalation Abuse",
+      "technique": "T1548.003",
+      "description": "Detects repeated failed sudo privilege escalation attempts or unauthorized sudoers access.",
+      "enabled": true,
+      "threshold": 3,
+      "windowSeconds": 90,
+      "severity": "HIGH",
+      "autoBan": true,
+      "autoBanDurationMinutes": 20
+    },
+    {
+      "id": "rule-burst-flood",
+      "name": "Connection Flooding & Rapid Probing",
+      "technique": "T1046",
+      "description": "Detects rapid burst of authentication connection drops or port scans within a short interval.",
+      "enabled": true,
+      "threshold": 12,
+      "windowSeconds": 30,
+      "severity": "MEDIUM",
+      "autoBan": true,
+      "autoBanDurationMinutes": 10
+    }
+  ],
+  "bannedIps": [
+    {
+      "ip": "218.92.0.18",
+      "bannedAt": "2026-10-09T04:36:38.094Z",
+      "expiresAt": "2026-10-09T04:51:38.094Z",
+      "reason": "SSH Brute Force: Exceeded 5 failed logins in 60s",
+      "alertId": "alert_1791520598094_eilnx",
+      "totalAttempts": 5,
+      "iptablesRule": "sudo iptables -A INPUT -s 218.92.0.18 -j DROP",
+      "ufwRule": "sudo ufw deny from 218.92.0.18",
+      "geo": {
+        "country": "China",
+        "countryCode": "CN",
+        "city": "Lianyungang",
+        "flag": "🇨🇳",
+        "org": "China Telecom Scanner"
+      }
+    },
+    {
+      "ip": "185.220.101.5",
+      "bannedAt": "2026-10-09T04:36:21.568Z",
+      "expiresAt": "2026-10-09T04:51:21.568Z",
+      "reason": "SSH Brute Force: Exceeded 5 failed logins in 60s",
+      "alertId": "alert_1791520581568_tvyc8",
+      "totalAttempts": 5,
+      "iptablesRule": "sudo iptables -A INPUT -s 185.220.101.5 -j DROP",
+      "ufwRule": "sudo ufw deny from 185.220.101.5",
+      "geo": {
+        "country": "Germany",
+        "countryCode": "DE",
+        "city": "Frankfurt",
+        "flag": "🇩🇪",
+        "org": "Tor Exit Node / Bulletproof VPS"
+      }
+    },
+    {
+      "ip": "194.26.29.112",
+      "bannedAt": "2026-10-09T04:36:21.567Z",
+      "expiresAt": "2026-10-09T04:51:21.567Z",
+      "reason": "SSH Brute Force: Exceeded 5 failed logins in 60s",
+      "alertId": "alert_1791520581567_e6zv9",
+      "totalAttempts": 5,
+      "iptablesRule": "sudo iptables -A INPUT -s 194.26.29.112 -j DROP",
+      "ufwRule": "sudo ufw deny from 194.26.29.112",
+      "geo": {
+        "country": "Russia",
+        "countryCode": "RU",
+        "city": "Moscow",
+        "flag": "🇷🇺",
+        "org": "Selectel ASN / Redline Botnet"
+      }
+    }
+  ],
+  "agents": {
+    "kali-agent-01": {
+      "id": "kali-agent-01",
+      "hostname": "kali-rolling-soc",
+      "ip": "192.168.1.105",
+      "os": "Kali Linux 2026.1 (Debian GNU/Linux)",
+      "lastSeen": "2026-10-09T04:36:21.569Z",
+      "status": "ONLINE",
+      "logsShipped": 42,
+      "version": "1.2.0",
+      "kernel": "Linux 6.6.9-kali1-amd64"
+    }
+  }
+}
